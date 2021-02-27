@@ -1,0 +1,25 @@
+{
+	"name": "sky-utils",
+	"version": "0.0.0",
+	"description": "JavaScript utility functions",
+	"module": "index.js",
+	"main": "dist/sky-util.cjs",
+	"scripts": {
+		"build": "rollup -c build/rollup.config.js",
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/linsk1998/sky-utils.git"
+	},
+	"keywords": [
+		"utils"
+	],
+	"author": "linsk",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/linsk1998/sky-utils/issues"
+	},
+	"homepage": "https://github.com/linsk1998/sky-utils#readme",
+	"devDependencies": {}
+}
