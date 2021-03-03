@@ -25,10 +25,9 @@ importPlugin({
 
 You can build diffrent environment version by alias plugin.
 
-- compat:ie6/ie7/ie8 only
-- modern:ie9+/firefox 3+/chrome 4+
+- compat:ie6/ie7/ie8/WSH/Rhino
+- modern:ie9+/firefox 3+/chrome 4+/Nashorn
 - module:browser which support script type="module"
-- node:nodejs
 - universal:all those environment
 
 ## Api
